@@ -1,0 +1,26 @@
+{
+    "rhythm_ali":{
+        "image":"https://cdn.pixabay.com/photo/2022/03/01/20/58/peace-genius-7042013_960_720.jpg",
+        "likes":45,
+        "comments":"Nice post"
+    },
+    "johnson_paul":{
+        "image":"https://cdn.pixabay.com/photo/2022/01/24/17/11/butterfly-6964083_960_720.jpg",
+        "likes":12,
+        "comments":"Amazing click"
+    },
+    "laura_sara":{
+        "image":"https://cdn.pixabay.com/photo/2022/02/22/17/25/stork-7029266_960_720.jpg",
+        "likes":37,
+        "comments":"Beautiful"
+    },
+    "ankit_sr":{
+        "image":"https://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455_960_720.jpg",
+        "likes":51,
+        "comments":"Aesthetic"
+    },"drinking_water":{
+        "image":"https://cdn.pixabay.com/photo/2016/02/19/20/57/iceland-1211171_960_720.jpg",
+        "likes":102,
+        "comments":"Nice shot"
+    }
+}
